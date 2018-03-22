@@ -31,6 +31,7 @@ require("configure.php");
         </style>
     </head>
     <body>
+	    <h1>hello</h1>
         <div id="container">
             <div id="body">
                 <div class="mainTitle" >Multiple dropdown with jquery ajax and php</div>
